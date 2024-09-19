@@ -1,4 +1,4 @@
 [core]
-     remote = localstorage
+    remote = gdrive_remote
 ['remote "localstorage"']
-     url = C:\Users\Hello\Desktop\Html Tutorial\Document\KAIM Courses\Week-3\Week-3 DVC\local_storage
+    url = C:\Users\Hello\Desktop\Html Tutorial\Document\KAIM Courses\Week-3\Week-3 DVC\local_storage
